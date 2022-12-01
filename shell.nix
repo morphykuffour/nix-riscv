@@ -2,7 +2,7 @@
 
 let
   dependencies = with pkgs; [
-      openjdk16-bootstrap
+      sbcl
   ];
 in
 with pkgs;
